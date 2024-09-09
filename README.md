@@ -300,7 +300,7 @@ else needs a way to update their local copies to reflect these changes. Git prov
 You can use `git pull` to get the latest changes from the remote repository. Note: you have to be careful though, because
 if you have local changes to the same files, then there could be conflicting changes which will need to be resolved. We'll
 talk more about that complication later — but just know that since such conflicts can so easily arise git has
-ways to help you resolve such conflicts without too much difficulty.
+ways to help you resolve such conflicts without too much difficulty. HELLO I'M WRITING ON GITHUB TO TEST THE PULL TECHNIQUE
 
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
 on GitHub.
